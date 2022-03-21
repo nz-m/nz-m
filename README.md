@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align='center'>
+Hi there 👋 I'm Neaz
+</h1>
 
-<!--
-**nz-m/nz-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Everything.**
+- 👯 I’m looking to collaborate on **Opensource Projects.**
+- 📫 How to reach me: **[mail](neaz6160@gmail.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language and Tools:
+
+<p align='center'>
+
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-c%2B%2B-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-nodejs-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-react-native-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mysql-logo-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-python.gif'height='48px'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-javascript.gif'height='48px'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-java.gif' height='48px'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mongodb-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-html-5-48.png'>
+<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-css3-48.png'>
+
+</p>
+
+## Views
+
+<img src="https://komarev.com/ghpvc/?username=nz-m&label=PROFILE+VIEWS">
