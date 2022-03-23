@@ -25,6 +25,6 @@ Hi there 👋 I'm Neaz
 
 </p>
 
-## Views
+## 
 
-<img src="https://komarev.com/ghpvc/?username=nz-m&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile+Hits">
