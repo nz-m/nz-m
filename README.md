@@ -16,7 +16,7 @@ Hi there 👋 I'm Neaz
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-nodejs-48.png'>
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-react-native-48.png'>
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mysql-logo-48.png'>
-<img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-python.gif'height='48px'>
+<img title="Python" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-python.gif'height='48px'>
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-javascript.gif'height='48px'>
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-java.gif' height='48px'>
 <img src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mongodb-48.png'>
