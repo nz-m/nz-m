@@ -12,7 +12,7 @@ Hi there 👋 I'm Neaz
 
 <p align='center'>
 
-<img title="Python" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-c%2B%2B-48.png'>
+<img title="C++" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-c%2B%2B-48.png'>
 <img title="NodeJs" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-nodejs-48.png'>
 <img title="ReactJs" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-react-native-48.png'>
 <img title="MySQL" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mysql-logo-48.png'>
