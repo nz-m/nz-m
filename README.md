@@ -6,7 +6,7 @@ Hi there 👋 I'm Neaz
 
 - 🌱 I’m currently learning **Everything.**
 - 👯 I’m looking to collaborate on **Opensource Projects.**
-- 📫 How to reach me: **[mail](mailto:neaz6160@gmail.com)**
+- 📫 Reach me via: **[mail](mailto:neaz6160@gmail.com)**
 
 ## Language and Tools:
 
