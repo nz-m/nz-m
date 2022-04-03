@@ -2,7 +2,7 @@
 <h1 align='center'>
 Hi there 👋 I'm Neaz
 </h1 >
-<section style="background-color:#f5f2d0;border:2px solid white;border-radius:10px;margin-bottom:20px;margin-left:150px;margin-right:150px;color:black">
+<section style="background-color:#f5f2d0;border:2px solid white;border-radius:10px;margin-bottom:20px;margin-left:150px;margin-right:150px;color:black;background-image: url('https://raw.githubusercontent.com/nz-m/Academic_files/main/img/of.png')">
 
 ## About me:
 
