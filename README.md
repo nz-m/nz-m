@@ -1,10 +1,8 @@
-<div style="background-image: url('https://raw.githubusercontent.com/nz-m/Academic_files/main/img/of.png');">
 <h1 align='center'>
 Hi there 👋 I'm Neaz
-</h1 >
-<section style="background-color:#f5f2d0;border:2px solid white;border-radius:10px;margin-bottom:20px;margin-left:150px;margin-right:150px;color:black;background-image: url('https://raw.githubusercontent.com/nz-m/Academic_files/main/img/of.png')">
+</h1>
 
-## About me:
+## About me
 
 - 🌱 I’m currently learning **Everything.**
 - 👯 I’m looking to collaborate on **Opensource Projects.**
@@ -13,6 +11,7 @@ Hi there 👋 I'm Neaz
 ## Language and Tools:
 
 <p align='center'>
+
 <img title="C++" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-c%2B%2B-48.png'>
 <img title="Node.js" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-nodejs-48.png'>
 <img title="React.js" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-react-native-48.png'>
@@ -23,8 +22,8 @@ Hi there 👋 I'm Neaz
 <img title="MongoDB" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mongodb-48.png'>
 <img title="HTML" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-html-5-48.png'>
 <img title="CSS" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-css3-48.png'>
+
 </p>
-</section>
 <section align='center'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&langs_count=8&theme=calm'>
 </section>
@@ -34,4 +33,4 @@ Hi there 👋 I'm Neaz
 <img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile+Hits">
 </section>
 
-</div>
+
