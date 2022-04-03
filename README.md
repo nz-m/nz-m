@@ -24,8 +24,10 @@ Hi there 👋 I'm Neaz
 <img title="CSS" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-css3-48.png'>
 
 </p>
-
+<section align='center'>
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&theme=blue-green)
+</section>
+
 
 ## 
 
