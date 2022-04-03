@@ -1,4 +1,4 @@
-<div style="background-image: url('of.png');">
+<div style="background-image: url('https://raw.githubusercontent.com/nz-m/Academic_files/main/img/of.png');">
 <h1 align='center'>
 Hi there 👋 I'm Neaz
 </h1 >
