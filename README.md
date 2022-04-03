@@ -28,7 +28,9 @@ Hi there 👋 I'm Neaz
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&theme=blue-green'>
 </section>
 
+</p>
+<section align='center'>
+<img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile+Hits">
+</section>
 
-## 
 
-<img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile+Hits" align="right">
