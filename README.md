@@ -25,7 +25,7 @@ Hi there 👋 I'm Neaz
 
 </p>
 <section align='center'>
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&theme=blue-green)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&theme=blue-green)
 </section>
 
 
