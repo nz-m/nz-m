@@ -3,10 +3,10 @@ Hi there 👋 I'm Neaz
 </h1>
 
 ## About me
-
+- Currently pursuing my bachelor's degree in **Computer Science and Engineering**
 - I'm interested in **Software development**
-- Currently working on my **personal Projects.** 
-- I’m looking to collaborate on **Opensource Projects.**
+- Currently working on my **personal projects.** 
+- I’m looking to collaborate on **opensource projects.**
 - I’m currently learning **Everything.**
 - Reach me via: **[mail](mailto:neaz6160@gmail.com)**
 
