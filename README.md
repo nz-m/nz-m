@@ -4,9 +4,11 @@ Hi there 👋 I'm Neaz
 
 ## About me
 
-- 🌱 I’m currently learning **Everything.**
-- 👯 I’m looking to collaborate on **Opensource Projects.**
-- 📫 Reach me via: **[mail](mailto:neaz6160@gmail.com)**
+- I'm interested in **Software development**
+- Currently working on my **personal Projects.** 
+- I’m looking to collaborate on **Opensource Projects.**
+- I’m currently learning **Everything.**
+- Reach me via: **[mail](mailto:neaz6160@gmail.com)**
 
 ## Language and Tools:
 
