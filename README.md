@@ -27,7 +27,7 @@ Hey there 👋 I'm Neaz
 
 </p>
 <section align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&langs_count=8&theme=calm'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&langs_count=8'>
 </section>
 
 </p>
