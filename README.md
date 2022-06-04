@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neaz Mahmud</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile%20views&color=0e75b6&style=flat" alt="nz-m" /> </p>
+<img align="right" src="https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/0_7Q3yvSIv_t0ioJ-Z.gif" alt="code" width="400">
 
 
 
