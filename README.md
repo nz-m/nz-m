@@ -1,38 +1,22 @@
-<h1 align='center'>
-Hey there 👋 I'm Neaz
-</h1>
-
-## About me
-- Currently pursuing my bachelor's degree in **Computer Science and Engineering**
-- I'm interested in **Software development**
-- Currently working on my **personal projects.** 
-- I’m looking to collaborate on **opensource projects.**
-- I’m currently learning **Everything.**
-- Reach me via: **[mail](mailto:neaz6160@gmail.com)**
-
-## Language and Tools:
-
-<p align='center'>
-
-<img title="C++" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-c%2B%2B-48.png'>
-<img title="Node.js" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-nodejs-48.png'>
-<img title="React.js" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-react-native-48.png'>
-<img title="MySQL" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mysql-logo-48.png'>
-<img title="Python" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-python.gif'height='48px'>
-<img title="Javascript" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-javascript.gif'height='48px'>
-<img title="Java" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-java.gif' height='48px'>
-<img title="MongoDB" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-mongodb-48.png'>
-<img title="HTML" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-html-5-48.png'>
-<img title="CSS" src='https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/icons8-css3-48.png'>
-
-</p>
-<section align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&langs_count=8'>
-</section>
-
-</p>
-<section align='center'>
-<img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile+Hits">
-</section>
+<h1 align="center">Hi 👋, I'm Neaz Mahmud</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nz-m&label=Profile%20views&color=0e75b6&style=flat" alt="nz-m" /> </p>
 
 
+
+- 🔭 Currently I'm pursuing my bachelor's degree in **Computer Science and Engineering**
+
+- 🌱 I’m currently learning **everything**
+
+- ⚡ I'm interested in **software development**
+
+- 👨‍💻 Currently working on my **personal projects**
+
+- 📫 Reach me via **neaz6160@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nz-m/Academic_files/main/img/icons/django-13-1175187.webp" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nz-m&show_icons=true&locale=en&layout=compact" alt="nz-m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nz-m&" alt="nz-m" /></p>
