@@ -12,7 +12,7 @@
 
 - 👨‍💻 Currently working on my **personal projects**
 
-- 📫 Reach me via **neaz6160@gmail.com**
+- 📫 Reach me via [mail](neaz6160@gmail.com)
 
 
 
