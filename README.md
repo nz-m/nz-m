@@ -1,2 +1,2 @@
 [![Neaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nz-m)](https://github.com/nz-m/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nz-m&layout=compact)](https://github.com/nz-m/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nz-m&theme=dark)](https://git.io/streak-stats)
